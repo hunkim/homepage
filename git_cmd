@@ -1,0 +1,8 @@
+cse	ssh://hunkim@msr.cse.ust.hk/homes/hunkim/gitworkspace/homepage.git (fetch)
+cse	ssh://hunkim@msr.cse.ust.hk/homes/hunkim/gitworkspace/homepage.git (push)
+origin	https://github.com/hunkim/homepage.git (fetch)
+origin	https://github.com/hunkim/homepage.git (push)
+
+#
+git push cse gh_pages
+
